@@ -4,6 +4,11 @@ Hello!
 
 I'm Mia Smith, a student at Brigham Young University-Idaho interested in Machine Learning. Welcome to my GitHub profile!
 
+## About Me
+
+- I'm currently learning C#.
+- My goals are to graduate and get involved in work that will make a meaningful difference.
+
 ## Technologies and Tools
 
 - Proficient in: Python, HTML, CSS, JavaScript
