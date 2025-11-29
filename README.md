@@ -15,6 +15,7 @@ I'm Mia Smith, a student at Brigham Young University-Idaho interested in Machine
 
 ## Let's Connect!
 
-- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-smith-52a565345) profile
+- Here is my LinkedIn profile
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-smith-52a565345)
 
 Feel free to explore my repositories and don't hesitate to reach out!
